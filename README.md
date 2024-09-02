@@ -53,5 +53,4 @@ Resources for Starknet MEV
 
 # Telegram Group
 
-- Member count
-    - 6 → 208! 👍
+- [Starknet MEV](https://t.me/+TiNIOKAdIyQzNDg0)
