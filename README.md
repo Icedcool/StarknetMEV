@@ -48,7 +48,7 @@ Resources for Starknet MEV
 
 # Talks
 
-- [Solomon at OSCA Abuja - 8/31/24](https://x.com/LordGhostX/status/1829844306103840937)
+- [OSCA Abuja - 8/31/24](https://x.com/LordGhostX/status/1829844306103840937)
     - [Slides](https://docs.google.com/presentation/d/1I13aEZ_7XTfOX0aC418YO5FaRVH2lojCgT9nhhLOqNQ/edit#slide=id.p)
 
 # Telegram Group
