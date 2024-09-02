@@ -47,7 +47,7 @@ Resources for Starknet MEV
     - [Starknet Liquidations](https://dune.com/caravanserai/starknet-liquidations)
 
 - Queries
-    - [74 Queries](https://dune.com/discover/content/relevant?q=author:caravanserai&resource-type=queries)
+    - [Queries](https://dune.com/discover/content/relevant?q=author:caravanserai&resource-type=queries)
 
 - Tooling
     - [Entro](https://github.com/NethermindEth/entro)
