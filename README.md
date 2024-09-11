@@ -24,6 +24,7 @@ Resources for Starknet MEV
     - [Data to Queries: Exploring Starknet Data with Dune](https://dev.to/lordghostx/data-to-queries-exploring-starknet-data-with-dune-ihd)
     - [Understanding Starknet Data with Dune Dashboards](https://dev.to/lordghostx/understanding-starknet-data-with-dune-dashboards-17je)
     - [Maximal Arbitrage Value in Starknet. Nostra V2 Arbitrage Quantification](https://medium.com/@carlosfiestas/maximal-arbitrage-value-in-starknet-nostra-v2-arbitrage-quantification-3729de8cb07f)
+    - [Decentralizing Starknet: Architecture, Plans, and MEV Impact](https://dev.to/lordghostx/decentralizing-starknet-architecture-plans-and-mev-impact-7ck)
 
 # Bot Templates
 
