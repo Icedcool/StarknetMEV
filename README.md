@@ -17,6 +17,7 @@ Resources for Starknet MEV
     - [Liquidation Bot on ZKLend (Starknet) Part 1 — Introduction: who is borrowing?](https://medium.com/@kristianaristi/liquidation-bot-on-zklend-starknet-part-1-introduction-who-is-borrowing-4d2631971a3a)
     - [Liquidation Bot on ZKLend (Starknet) Part 2 — Are you liquidatable?](https://medium.com/@kristianaristi/liquidation-bot-on-zklend-starknet-part-2-are-you-liquidatable-5863c19d1c6d)
     - [Liquidation Bot on ZKLend (Starknet) Part 3— How much should I liquidate?](https://medium.com/@kristianaristi/liquidation-bot-on-zklend-starknet-part-3-how-much-should-i-liquidate-b2b5dfb9107d)
+    - [Liquidations on Opus](https://opusmoney.substack.com/p/liquidation-on-opus)
 - General Articles
     - [Introduction to MEV on Starknet](https://dev.to/lordghostx/introduction-to-mev-on-starknet-1o0l)
     - [Starknet Protocols: Key Features and MEV Opportunities](https://dev.to/lordghostx/starknet-protocols-key-features-and-mev-opportunities-574i)
